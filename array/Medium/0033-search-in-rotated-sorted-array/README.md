@@ -10,7 +10,7 @@
 
 | Variant | Language | Runtime | Memory | Date | Default |
 |---|---|---|---|---|---|
-| **Default** ⭐ | C++ | N/A (90th %ile) | 15340000 (85th %ile) | 2026-07-25 | ✅ |
+| **Default** ⭐ | C++ | N/A (90th %ile) | 15296000 (85th %ile) | 2026-07-25 | ✅ |
 
 ---
 

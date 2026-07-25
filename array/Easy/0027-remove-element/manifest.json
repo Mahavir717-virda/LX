@@ -1,11 +1,11 @@
 {
-  "slug": "search-in-rotated-sorted-array",
-  "title": "Search in Rotated Sorted Array",
-  "number": 33,
-  "difficulty": "Medium",
+  "slug": "remove-element",
+  "title": "Remove Element",
+  "number": 27,
+  "difficulty": "Easy",
   "tags": [
     "Array",
-    "Binary Search"
+    "Two Pointers"
   ],
   "folderTopic": {
     "strategy": "PRIMARY_TOPIC",
@@ -17,30 +17,30 @@
       "slug": "array"
     },
     {
-      "name": "Binary Search",
-      "slug": "binary-search"
+      "name": "Two Pointers",
+      "slug": "two-pointers"
     }
   ],
-  "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+  "url": "https://leetcode.com/problems/remove-element/",
   "solutionGroups": [
     {
       "language": "cpp",
       "solutions": [
         {
-          "id": "90d26455-3578-4290-9b64-fffbf7495003",
+          "id": "0c70ee52-1e58-4bac-91c2-33685e09f946",
           "label": "Default",
           "language": "cpp",
-          "filePath": "array/Medium/0033-search-in-rotated-sorted-array/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:33:19.954Z",
-          "updatedAt": "2026-07-25T07:33:19.954Z",
+          "filePath": "array/Easy/0027-remove-element/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:33:20.292Z",
+          "updatedAt": "2026-07-25T07:33:20.292Z",
           "isDefault": true,
           "runtime": "N/A",
           "runtimePercentile": 90,
-          "memory": 15296000,
+          "memory": 11784000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "1857404886"
+          "submissionId": "1857294571"
         }
       ]
     }
