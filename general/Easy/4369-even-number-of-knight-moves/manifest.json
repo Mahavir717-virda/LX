@@ -1,0 +1,38 @@
+{
+  "slug": "even-number-of-knight-moves",
+  "title": "Even Number of Knight Moves",
+  "number": 4369,
+  "difficulty": "Easy",
+  "tags": [],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "general"
+  },
+  "topicTags": [],
+  "url": "https://leetcode.com/problems/even-number-of-knight-moves/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "fc282820-8bdd-4402-a88e-4f303fd1e9eb",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "general/Easy/4369-even-number-of-knight-moves/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:28:52.220Z",
+          "updatedAt": "2026-07-25T07:28:52.220Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 49684000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2078585681"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

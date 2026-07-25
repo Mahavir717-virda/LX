@@ -1,12 +1,12 @@
 {
-  "slug": "jump-game",
-  "title": "Jump Game",
-  "number": 55,
-  "difficulty": "Medium",
+  "slug": "longest-common-prefix",
+  "title": "Longest Common Prefix",
+  "number": 14,
+  "difficulty": "Easy",
   "tags": [
     "Array",
-    "Dynamic Programming",
-    "Greedy"
+    "String",
+    "Trie"
   ],
   "folderTopic": {
     "strategy": "PRIMARY_TOPIC",
@@ -18,34 +18,34 @@
       "slug": "array"
     },
     {
-      "name": "Dynamic Programming",
-      "slug": "dynamic-programming"
+      "name": "String",
+      "slug": "string"
     },
     {
-      "name": "Greedy",
-      "slug": "greedy"
+      "name": "Trie",
+      "slug": "trie"
     }
   ],
-  "url": "https://leetcode.com/problems/jump-game/",
+  "url": "https://leetcode.com/problems/longest-common-prefix/",
   "solutionGroups": [
     {
       "language": "cpp",
       "solutions": [
         {
-          "id": "7b8e2549-434a-4b57-890b-6142b75e0deb",
+          "id": "a2e06030-508a-4e6b-9c86-a2379a7adffc",
           "label": "Default",
           "language": "cpp",
-          "filePath": "array/Medium/0055-jump-game/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:28:42.233Z",
-          "updatedAt": "2026-07-25T07:28:42.233Z",
+          "filePath": "array/Easy/0014-longest-common-prefix/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:28:46.898Z",
+          "updatedAt": "2026-07-25T07:28:46.898Z",
           "isDefault": true,
           "runtime": "N/A",
           "runtimePercentile": 90,
-          "memory": 52424000,
+          "memory": 12060000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2078762910"
+          "submissionId": "2078692345"
         }
       ]
     }
