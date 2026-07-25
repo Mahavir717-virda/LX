@@ -1,0 +1,68 @@
+{
+  "slug": "maximum-product-of-two-digits",
+  "title": "Maximum Product of Two Digits",
+  "number": 3536,
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Sorting"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "sorting"
+  },
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "problemMetadata": {
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "paidOnly": false,
+    "categoryTitle": "Algorithms",
+    "likes": 0,
+    "dislikes": 0,
+    "capturedAt": "2026-07-25T07:53:05.826Z"
+  },
+  "url": "https://leetcode.com/problems/maximum-product-of-two-digits",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "b3423e69-806d-42d9-9198-670f4c563247",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "Contest/Weekly contest 448/3536-maximum-product-of-two-digits/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:53:07.174Z",
+          "updatedAt": "2026-07-25T07:53:07.174Z",
+          "isDefault": true,
+          "runtime": "2 ms",
+          "runtimePercentile": 19.271399999999993,
+          "memory": "9.1 MB",
+          "memoryPercentile": 29.612099999999998,
+          "commitSha": "27c7aa033c72623fc6b2255dbd4918c6f413053f",
+          "previousCommitSha": null,
+          "submissionId": "2080461356"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}
