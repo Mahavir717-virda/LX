@@ -1,0 +1,55 @@
+{
+  "slug": "container-with-most-water",
+  "title": "Container With Most Water",
+  "number": 11,
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Greedy"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ],
+  "url": "https://leetcode.com/problems/container-with-most-water/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "fbd10a22-2399-4148-9f66-f6f06b354682",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Medium/0011-container-with-most-water/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:27:53.653Z",
+          "updatedAt": "2026-07-25T07:27:53.653Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 63036000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2079354763"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

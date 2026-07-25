@@ -1,0 +1,50 @@
+{
+  "slug": "two-sum",
+  "title": "Two Sum",
+  "number": 1,
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    }
+  ],
+  "url": "https://leetcode.com/problems/two-sum/",
+  "solutionGroups": [
+    {
+      "language": "python",
+      "solutions": [
+        {
+          "id": "508fe3cd-f699-4e63-b9e6-9e35eda41278",
+          "label": "Default",
+          "language": "python",
+          "filePath": "array/Easy/0001-two-sum/solutions/python/solution.py",
+          "createdAt": "2026-07-25T07:27:57.042Z",
+          "updatedAt": "2026-07-25T07:27:57.042Z",
+          "isDefault": true,
+          "runtime": 1794,
+          "runtimePercentile": 90,
+          "memory": 13440000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2079133932"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

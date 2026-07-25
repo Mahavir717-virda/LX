@@ -1,0 +1,55 @@
+{
+  "slug": "set-matrix-zeroes",
+  "title": "Set Matrix Zeroes",
+  "number": 73,
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Matrix"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Matrix",
+      "slug": "matrix"
+    }
+  ],
+  "url": "https://leetcode.com/problems/set-matrix-zeroes/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "5a5bac6b-0f09-4307-a11d-3127f0a317d2",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Medium/0073-set-matrix-zeroes/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:27:49.620Z",
+          "updatedAt": "2026-07-25T07:27:49.620Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 20708000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2079361567"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

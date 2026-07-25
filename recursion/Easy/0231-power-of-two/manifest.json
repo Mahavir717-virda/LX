@@ -1,0 +1,55 @@
+{
+  "slug": "power-of-two",
+  "title": "Power of Two",
+  "number": 231,
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Bit Manipulation",
+    "Recursion"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "recursion"
+  },
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "url": "https://leetcode.com/problems/power-of-two/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "fbba8bbd-4c00-4045-8465-aabbfc2c1c55",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "recursion/Easy/0231-power-of-two/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:27:49.268Z",
+          "updatedAt": "2026-07-25T07:27:49.268Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 7924000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2079363283"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

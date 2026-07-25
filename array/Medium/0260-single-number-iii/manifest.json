@@ -1,0 +1,50 @@
+{
+  "slug": "single-number-iii",
+  "title": "Single Number III",
+  "number": 260,
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    }
+  ],
+  "url": "https://leetcode.com/problems/single-number-iii/",
+  "solutionGroups": [
+    {
+      "language": "python3",
+      "solutions": [
+        {
+          "id": "7a42f483-7e83-473d-9759-2bf2de00f85d",
+          "label": "Default",
+          "language": "python3",
+          "filePath": "array/Medium/0260-single-number-iii/solutions/python/solution.py",
+          "createdAt": "2026-07-25T07:27:48.476Z",
+          "updatedAt": "2026-07-25T07:27:48.476Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 20852000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2079364945"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

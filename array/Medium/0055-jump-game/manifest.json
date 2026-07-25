@@ -1,0 +1,55 @@
+{
+  "slug": "jump-game",
+  "title": "Jump Game",
+  "number": 55,
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ],
+  "url": "https://leetcode.com/problems/jump-game/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "66485683-9e70-4186-b5f4-2bf5bf0050a3",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Medium/0055-jump-game/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:27:54.976Z",
+          "updatedAt": "2026-07-25T07:27:54.976Z",
+          "isDefault": true,
+          "runtime": 3,
+          "runtimePercentile": 90,
+          "memory": 52212000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2079353571"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

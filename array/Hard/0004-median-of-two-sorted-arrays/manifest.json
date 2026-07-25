@@ -1,0 +1,55 @@
+{
+  "slug": "median-of-two-sorted-arrays",
+  "title": "Median of Two Sorted Arrays",
+  "number": 4,
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    }
+  ],
+  "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "f3fb2e98-5deb-4274-abaa-eacd94ba5aec",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Hard/0004-median-of-two-sorted-arrays/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:27:50.342Z",
+          "updatedAt": "2026-07-25T07:27:50.342Z",
+          "isDefault": true,
+          "runtime": 3,
+          "runtimePercentile": 90,
+          "memory": 95432000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2079360038"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

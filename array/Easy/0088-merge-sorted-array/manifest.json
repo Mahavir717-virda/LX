@@ -1,0 +1,55 @@
+{
+  "slug": "merge-sorted-array",
+  "title": "Merge Sorted Array",
+  "number": 88,
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "url": "https://leetcode.com/problems/merge-sorted-array/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "ca0d8534-eaa1-4805-8ecc-5ecb21cfd08a",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Easy/0088-merge-sorted-array/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:27:54.140Z",
+          "updatedAt": "2026-07-25T07:27:54.140Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 12232000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2079354172"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

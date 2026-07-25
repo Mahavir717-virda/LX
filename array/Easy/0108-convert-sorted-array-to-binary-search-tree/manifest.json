@@ -1,0 +1,65 @@
+{
+  "slug": "convert-sorted-array-to-binary-search-tree",
+  "title": "Convert Sorted Array to Binary Search Tree",
+  "number": 108,
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Divide and Conquer",
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Tree",
+      "slug": "tree"
+    },
+    {
+      "name": "Binary Search Tree",
+      "slug": "binary-search-tree"
+    },
+    {
+      "name": "Binary Tree",
+      "slug": "binary-tree"
+    }
+  ],
+  "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "2bd6c5ea-4ab4-4573-b529-c85f80cbfdd9",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Easy/0108-convert-sorted-array-to-binary-search-tree/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:27:51.480Z",
+          "updatedAt": "2026-07-25T07:27:51.480Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 22808000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2079357225"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

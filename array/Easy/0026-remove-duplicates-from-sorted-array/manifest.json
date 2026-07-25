@@ -1,0 +1,50 @@
+{
+  "slug": "remove-duplicates-from-sorted-array",
+  "title": "Remove Duplicates from Sorted Array",
+  "number": 26,
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    }
+  ],
+  "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "3396b60d-6596-47da-90a0-af656b38196e",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Easy/0026-remove-duplicates-from-sorted-array/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:27:47.505Z",
+          "updatedAt": "2026-07-25T07:27:47.505Z",
+          "isDefault": true,
+          "runtime": 58,
+          "runtimePercentile": 90,
+          "memory": 22792000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2079367026"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

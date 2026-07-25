@@ -1,0 +1,45 @@
+{
+  "slug": "length-of-last-word",
+  "title": "Length of Last Word",
+  "number": 58,
+  "difficulty": "Easy",
+  "tags": [
+    "String"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "string"
+  },
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "url": "https://leetcode.com/problems/length-of-last-word/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "0f5a7a6e-2f60-4e73-ab1e-7ea613808b84",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "string/Easy/0058-length-of-last-word/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:27:49.999Z",
+          "updatedAt": "2026-07-25T07:27:49.999Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 8940000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2079360800"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

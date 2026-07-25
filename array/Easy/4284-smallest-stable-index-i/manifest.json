@@ -1,0 +1,50 @@
+{
+  "slug": "smallest-stable-index-i",
+  "title": "Smallest Stable Index I",
+  "number": 4284,
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "url": "https://leetcode.com/problems/smallest-stable-index-i/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "38d4e756-d19a-4d00-8c41-098b64502ea6",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Easy/4284-smallest-stable-index-i/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:27:52.555Z",
+          "updatedAt": "2026-07-25T07:27:52.555Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 30212000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2079356147"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "next-permutation",
+  "title": "Next Permutation",
+  "number": 31,
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    }
+  ],
+  "url": "https://leetcode.com/problems/next-permutation/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "7f3a7e90-d518-441e-b769-0fd13b617876",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Medium/0031-next-permutation/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:27:48.853Z",
+          "updatedAt": "2026-07-25T07:27:48.853Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 15808000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2079363791"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

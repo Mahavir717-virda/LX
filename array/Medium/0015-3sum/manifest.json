@@ -1,0 +1,55 @@
+{
+  "slug": "3sum",
+  "title": "3Sum",
+  "number": 15,
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "url": "https://leetcode.com/problems/3sum/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "7fbed15d-a17d-46b6-b92e-f15879fa3fb1",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Medium/0015-3sum/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:27:50.824Z",
+          "updatedAt": "2026-07-25T07:27:50.824Z",
+          "isDefault": true,
+          "runtime": 60,
+          "runtimePercentile": 90,
+          "memory": 31028000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2079359553"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "best-time-to-buy-and-sell-stock",
+  "title": "Best Time to Buy and Sell Stock",
+  "number": 121,
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
+    }
+  ],
+  "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "af09cca7-1b65-4e98-b32c-31aaf5003d23",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Easy/0121-best-time-to-buy-and-sell-stock/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:27:47.988Z",
+          "updatedAt": "2026-07-25T07:27:47.988Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 97236000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2079365958"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}
