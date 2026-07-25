@@ -1,8 +1,8 @@
-# 🟡 3Sum
+# 🟡 4Sum
 
 **Difficulty:** Medium  
 **Tags:** `Array` `Two Pointers` `Sorting`  
-**Link:** [LeetCode](https://leetcode.com/problems/3sum/)  
+**Link:** [LeetCode](https://leetcode.com/problems/4sum/)  
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Variant | Language | Runtime | Memory | Date | Default |
 |---|---|---|---|---|---|
-| **Default** ⭐ | C++ | 63 (90th %ile) | 31192000 (85th %ile) | 2026-07-25 | ✅ |
+| **Default** ⭐ | C++ | 23 (90th %ile) | 17380000 (85th %ile) | 2026-07-25 | ✅ |
 
 ---
 

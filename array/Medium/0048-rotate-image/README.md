@@ -1,8 +1,8 @@
-# 🟡 3Sum
+# 🟡 Rotate Image
 
 **Difficulty:** Medium  
-**Tags:** `Array` `Two Pointers` `Sorting`  
-**Link:** [LeetCode](https://leetcode.com/problems/3sum/)  
+**Tags:** `Array` `Math` `Matrix`  
+**Link:** [LeetCode](https://leetcode.com/problems/rotate-image/)  
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Variant | Language | Runtime | Memory | Date | Default |
 |---|---|---|---|---|---|
-| **Default** ⭐ | C++ | 63 (90th %ile) | 31192000 (85th %ile) | 2026-07-25 | ✅ |
+| **Default** ⭐ | C++ | N/A (90th %ile) | 10328000 (85th %ile) | 2026-07-25 | ✅ |
 
 ---
 

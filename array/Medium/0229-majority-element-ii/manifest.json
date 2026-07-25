@@ -1,12 +1,13 @@
 {
-  "slug": "3sum",
-  "title": "3Sum",
-  "number": 15,
+  "slug": "majority-element-ii",
+  "title": "Majority Element II",
+  "number": 229,
   "difficulty": "Medium",
   "tags": [
     "Array",
-    "Two Pointers",
-    "Sorting"
+    "Hash Table",
+    "Sorting",
+    "Counting"
   ],
   "folderTopic": {
     "strategy": "PRIMARY_TOPIC",
@@ -18,34 +19,38 @@
       "slug": "array"
     },
     {
-      "name": "Two Pointers",
-      "slug": "two-pointers"
+      "name": "Hash Table",
+      "slug": "hash-table"
     },
     {
       "name": "Sorting",
       "slug": "sorting"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
     }
   ],
-  "url": "https://leetcode.com/problems/3sum/",
+  "url": "https://leetcode.com/problems/majority-element-ii/",
   "solutionGroups": [
     {
       "language": "cpp",
       "solutions": [
         {
-          "id": "9b6f8759-2820-4881-b908-66b0f9f27870",
+          "id": "4a39d5d5-6722-4032-addc-b64f4f11c982",
           "label": "Default",
           "language": "cpp",
-          "filePath": "array/Medium/0015-3sum/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:31:47.508Z",
-          "updatedAt": "2026-07-25T07:31:47.508Z",
+          "filePath": "array/Medium/0229-majority-element-ii/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:49.927Z",
+          "updatedAt": "2026-07-25T07:31:49.927Z",
           "isDefault": true,
-          "runtime": 63,
+          "runtime": 7,
           "runtimePercentile": 90,
-          "memory": 31192000,
+          "memory": 26320000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2037514221"
+          "submissionId": "2036314564"
         }
       ]
     }

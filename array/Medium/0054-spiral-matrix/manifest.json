@@ -1,12 +1,12 @@
 {
-  "slug": "container-with-most-water",
-  "title": "Container With Most Water",
-  "number": 11,
+  "slug": "spiral-matrix",
+  "title": "Spiral Matrix",
+  "number": 54,
   "difficulty": "Medium",
   "tags": [
     "Array",
-    "Two Pointers",
-    "Greedy"
+    "Matrix",
+    "Simulation"
   ],
   "folderTopic": {
     "strategy": "PRIMARY_TOPIC",
@@ -18,34 +18,34 @@
       "slug": "array"
     },
     {
-      "name": "Two Pointers",
-      "slug": "two-pointers"
+      "name": "Matrix",
+      "slug": "matrix"
     },
     {
-      "name": "Greedy",
-      "slug": "greedy"
+      "name": "Simulation",
+      "slug": "simulation"
     }
   ],
-  "url": "https://leetcode.com/problems/container-with-most-water/",
+  "url": "https://leetcode.com/problems/spiral-matrix/",
   "solutionGroups": [
     {
       "language": "cpp",
       "solutions": [
         {
-          "id": "a508bf07-0ecf-401d-bf86-1464dd028a9a",
+          "id": "30e63b92-a742-4ebf-9aab-c820acce24c0",
           "label": "Default",
           "language": "cpp",
-          "filePath": "array/Medium/0011-container-with-most-water/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:31:48.309Z",
-          "updatedAt": "2026-07-25T07:31:48.309Z",
+          "filePath": "array/Medium/0054-spiral-matrix/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:51.841Z",
+          "updatedAt": "2026-07-25T07:31:51.841Z",
           "isDefault": true,
           "runtime": "N/A",
           "runtimePercentile": 90,
-          "memory": 62936000,
+          "memory": 9348000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2037175540"
+          "submissionId": "2034799920"
         }
       ]
     }

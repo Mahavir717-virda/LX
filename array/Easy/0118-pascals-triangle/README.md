@@ -1,8 +1,8 @@
-# 🟢 Assign Cookies
+# 🟢 Pascal's Triangle
 
 **Difficulty:** Easy  
-**Tags:** `Array` `Two Pointers` `Greedy` `Sorting`  
-**Link:** [LeetCode](https://leetcode.com/problems/assign-cookies/)  
+**Tags:** `Array` `Dynamic Programming`  
+**Link:** [LeetCode](https://leetcode.com/problems/pascals-triangle/)  
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Variant | Language | Runtime | Memory | Date | Default |
 |---|---|---|---|---|---|
-| **Default** ⭐ | C++ | 4 (90th %ile) | 44792000 (85th %ile) | 2026-07-25 | ✅ |
+| **Default** ⭐ | C++ | 3 (90th %ile) | 9828000 (85th %ile) | 2026-07-25 | ✅ |
 
 ---
 

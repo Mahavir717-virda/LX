@@ -1,12 +1,12 @@
 {
-  "slug": "3sum",
-  "title": "3Sum",
-  "number": 15,
+  "slug": "subarray-sum-equals-k",
+  "title": "Subarray Sum Equals K",
+  "number": 560,
   "difficulty": "Medium",
   "tags": [
     "Array",
-    "Two Pointers",
-    "Sorting"
+    "Hash Table",
+    "Prefix Sum"
   ],
   "folderTopic": {
     "strategy": "PRIMARY_TOPIC",
@@ -18,34 +18,34 @@
       "slug": "array"
     },
     {
-      "name": "Two Pointers",
-      "slug": "two-pointers"
+      "name": "Hash Table",
+      "slug": "hash-table"
     },
     {
-      "name": "Sorting",
-      "slug": "sorting"
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
     }
   ],
-  "url": "https://leetcode.com/problems/3sum/",
+  "url": "https://leetcode.com/problems/subarray-sum-equals-k/",
   "solutionGroups": [
     {
       "language": "cpp",
       "solutions": [
         {
-          "id": "9b6f8759-2820-4881-b908-66b0f9f27870",
+          "id": "a30e150d-2247-47f3-8863-3e97beda38f4",
           "label": "Default",
           "language": "cpp",
-          "filePath": "array/Medium/0015-3sum/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:31:47.508Z",
-          "updatedAt": "2026-07-25T07:31:47.508Z",
+          "filePath": "array/Medium/0560-subarray-sum-equals-k/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:51.319Z",
+          "updatedAt": "2026-07-25T07:31:51.319Z",
           "isDefault": true,
-          "runtime": 63,
+          "runtime": 31,
           "runtimePercentile": 90,
-          "memory": 31192000,
+          "memory": 45536000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2037514221"
+          "submissionId": "2035008413"
         }
       ]
     }

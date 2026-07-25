@@ -1,12 +1,11 @@
 {
-  "slug": "3sum",
-  "title": "3Sum",
-  "number": 15,
-  "difficulty": "Medium",
+  "slug": "pascals-triangle",
+  "title": "Pascal's Triangle",
+  "number": 118,
+  "difficulty": "Easy",
   "tags": [
     "Array",
-    "Two Pointers",
-    "Sorting"
+    "Dynamic Programming"
   ],
   "folderTopic": {
     "strategy": "PRIMARY_TOPIC",
@@ -18,34 +17,30 @@
       "slug": "array"
     },
     {
-      "name": "Two Pointers",
-      "slug": "two-pointers"
-    },
-    {
-      "name": "Sorting",
-      "slug": "sorting"
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
     }
   ],
-  "url": "https://leetcode.com/problems/3sum/",
+  "url": "https://leetcode.com/problems/pascals-triangle/",
   "solutionGroups": [
     {
       "language": "cpp",
       "solutions": [
         {
-          "id": "9b6f8759-2820-4881-b908-66b0f9f27870",
+          "id": "4078e517-3e31-48e9-9d0c-0baddf15a3d6",
           "label": "Default",
           "language": "cpp",
-          "filePath": "array/Medium/0015-3sum/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:31:47.508Z",
-          "updatedAt": "2026-07-25T07:31:47.508Z",
+          "filePath": "array/Easy/0118-pascals-triangle/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:50.919Z",
+          "updatedAt": "2026-07-25T07:31:50.919Z",
           "isDefault": true,
-          "runtime": 63,
+          "runtime": 3,
           "runtimePercentile": 90,
-          "memory": 31192000,
+          "memory": 9828000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2037514221"
+          "submissionId": "2036252430"
         }
       ]
     }

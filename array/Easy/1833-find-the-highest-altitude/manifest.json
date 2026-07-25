@@ -1,12 +1,11 @@
 {
-  "slug": "3sum",
-  "title": "3Sum",
-  "number": 15,
-  "difficulty": "Medium",
+  "slug": "find-the-highest-altitude",
+  "title": "Find the Highest Altitude",
+  "number": 1833,
+  "difficulty": "Easy",
   "tags": [
     "Array",
-    "Two Pointers",
-    "Sorting"
+    "Prefix Sum"
   ],
   "folderTopic": {
     "strategy": "PRIMARY_TOPIC",
@@ -18,34 +17,30 @@
       "slug": "array"
     },
     {
-      "name": "Two Pointers",
-      "slug": "two-pointers"
-    },
-    {
-      "name": "Sorting",
-      "slug": "sorting"
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
     }
   ],
-  "url": "https://leetcode.com/problems/3sum/",
+  "url": "https://leetcode.com/problems/find-the-highest-altitude/",
   "solutionGroups": [
     {
       "language": "cpp",
       "solutions": [
         {
-          "id": "9b6f8759-2820-4881-b908-66b0f9f27870",
+          "id": "bb6bfe0e-3297-4d20-a86f-513bc36b6ba8",
           "label": "Default",
           "language": "cpp",
-          "filePath": "array/Medium/0015-3sum/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:31:47.508Z",
-          "updatedAt": "2026-07-25T07:31:47.508Z",
+          "filePath": "array/Easy/1833-find-the-highest-altitude/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:46.543Z",
+          "updatedAt": "2026-07-25T07:31:46.543Z",
           "isDefault": true,
-          "runtime": 63,
+          "runtime": 11,
           "runtimePercentile": 90,
-          "memory": 31192000,
+          "memory": 10884000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2037514221"
+          "submissionId": "2038186835"
         }
       ]
     }

@@ -1,0 +1,50 @@
+{
+  "slug": "left-and-right-sum-differences",
+  "title": "Left and Right Sum Differences",
+  "number": 2714,
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "url": "https://leetcode.com/problems/left-and-right-sum-differences/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "4e4559f8-4c15-462b-8a44-cd0e7aacb53b",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Easy/2714-left-and-right-sum-differences/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:45.291Z",
+          "updatedAt": "2026-07-25T07:31:45.291Z",
+          "isDefault": true,
+          "runtime": 5,
+          "runtimePercentile": 90,
+          "memory": 15588000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2038322409"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

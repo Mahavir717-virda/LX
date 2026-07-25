@@ -37,20 +37,20 @@
       "language": "cpp",
       "solutions": [
         {
-          "id": "45ada61f-ccf7-41a4-9922-ee88eda6758b",
+          "id": "2751681f-a0a8-40f9-8e87-d9f70ab5b92e",
           "label": "Default",
           "language": "cpp",
           "filePath": "array/Easy/0455-assign-cookies/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:31:07.906Z",
-          "updatedAt": "2026-07-25T07:31:07.906Z",
+          "createdAt": "2026-07-25T07:31:55.815Z",
+          "updatedAt": "2026-07-25T07:31:55.815Z",
           "isDefault": true,
-          "runtime": 6,
+          "runtime": 4,
           "runtimePercentile": 90,
-          "memory": 44916000,
+          "memory": 44792000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2058029554"
+          "submissionId": "2031755493"
         }
       ]
     }

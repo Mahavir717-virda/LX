@@ -1,8 +1,8 @@
-# 🟡 3Sum
+# 🟡 Frequency Balance Subarray
 
 **Difficulty:** Medium  
-**Tags:** `Array` `Two Pointers` `Sorting`  
-**Link:** [LeetCode](https://leetcode.com/problems/3sum/)  
+**Tags:** _none_  
+**Link:** [LeetCode](https://leetcode.com/problems/frequency-balance-subarray/)  
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Variant | Language | Runtime | Memory | Date | Default |
 |---|---|---|---|---|---|
-| **Default** ⭐ | C++ | 63 (90th %ile) | 31192000 (85th %ile) | 2026-07-25 | ✅ |
+| **Default** ⭐ | C++ | 2304 (90th %ile) | 472524000 (85th %ile) | 2026-07-25 | ✅ |
 
 ---
 

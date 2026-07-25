@@ -1,8 +1,8 @@
-# 🟡 3Sum
+# 🟡 Subarray Sum Equals K
 
 **Difficulty:** Medium  
-**Tags:** `Array` `Two Pointers` `Sorting`  
-**Link:** [LeetCode](https://leetcode.com/problems/3sum/)  
+**Tags:** `Array` `Hash Table` `Prefix Sum`  
+**Link:** [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/)  
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Variant | Language | Runtime | Memory | Date | Default |
 |---|---|---|---|---|---|
-| **Default** ⭐ | C++ | 63 (90th %ile) | 31192000 (85th %ile) | 2026-07-25 | ✅ |
+| **Default** ⭐ | C++ | 31 (90th %ile) | 45536000 (85th %ile) | 2026-07-25 | ✅ |
 
 ---
 

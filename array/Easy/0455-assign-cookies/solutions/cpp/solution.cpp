@@ -4,17 +4,13 @@ public:
         sort(g.begin(), g.end());
         sort(s.begin(), s.end());
 
-        int left = 0, right = 0, n = g.size(), m = s.size(), cnt = 0;
-        while(left < n && right < m)
-        {
-            if(s[right] >= g[left])
-            {
-                cnt++;
-                left++;
+        int i = 0, j = 0;
+        while (i < g.size() && j < s.size()) {
+            if (s[j] >= g[i]) {
+                i++;
             }
-            right++;
+                j++;
         }
-
-        return cnt;
+        return i;
     }
 };

@@ -1,0 +1,38 @@
+{
+  "slug": "check-good-integer",
+  "title": "Check Good Integer",
+  "number": 4332,
+  "difficulty": "Easy",
+  "tags": [],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "general"
+  },
+  "topicTags": [],
+  "url": "https://leetcode.com/problems/check-good-integer/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "b0f3a98c-6aca-420e-b079-d3295f3157ad",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "general/Easy/4332-check-good-integer/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:54.539Z",
+          "updatedAt": "2026-07-25T07:31:54.539Z",
+          "isDefault": true,
+          "runtime": 3,
+          "runtimePercentile": 90,
+          "memory": 7748000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2032277364"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

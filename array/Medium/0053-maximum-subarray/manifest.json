@@ -1,12 +1,12 @@
 {
-  "slug": "container-with-most-water",
-  "title": "Container With Most Water",
-  "number": 11,
+  "slug": "maximum-subarray",
+  "title": "Maximum Subarray",
+  "number": 53,
   "difficulty": "Medium",
   "tags": [
     "Array",
-    "Two Pointers",
-    "Greedy"
+    "Divide and Conquer",
+    "Dynamic Programming"
   ],
   "folderTopic": {
     "strategy": "PRIMARY_TOPIC",
@@ -18,34 +18,34 @@
       "slug": "array"
     },
     {
-      "name": "Two Pointers",
-      "slug": "two-pointers"
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
     },
     {
-      "name": "Greedy",
-      "slug": "greedy"
+      "name": "Dynamic Programming",
+      "slug": "dynamic-programming"
     }
   ],
-  "url": "https://leetcode.com/problems/container-with-most-water/",
+  "url": "https://leetcode.com/problems/maximum-subarray/",
   "solutionGroups": [
     {
       "language": "cpp",
       "solutions": [
         {
-          "id": "a508bf07-0ecf-401d-bf86-1464dd028a9a",
+          "id": "c6471ba9-12c1-434b-bd7c-5c3a7b3422b1",
           "label": "Default",
           "language": "cpp",
-          "filePath": "array/Medium/0011-container-with-most-water/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:31:48.309Z",
-          "updatedAt": "2026-07-25T07:31:48.309Z",
+          "filePath": "array/Medium/0053-maximum-subarray/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:47.876Z",
+          "updatedAt": "2026-07-25T07:31:47.876Z",
           "isDefault": true,
           "runtime": "N/A",
           "runtimePercentile": 90,
-          "memory": 62936000,
+          "memory": 71840000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2037175540"
+          "submissionId": "2037193289"
         }
       ]
     }

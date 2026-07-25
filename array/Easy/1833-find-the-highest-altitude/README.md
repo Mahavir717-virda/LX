@@ -1,8 +1,8 @@
-# 🟢 Assign Cookies
+# 🟢 Find the Highest Altitude
 
 **Difficulty:** Easy  
-**Tags:** `Array` `Two Pointers` `Greedy` `Sorting`  
-**Link:** [LeetCode](https://leetcode.com/problems/assign-cookies/)  
+**Tags:** `Array` `Prefix Sum`  
+**Link:** [LeetCode](https://leetcode.com/problems/find-the-highest-altitude/)  
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Variant | Language | Runtime | Memory | Date | Default |
 |---|---|---|---|---|---|
-| **Default** ⭐ | C++ | 4 (90th %ile) | 44792000 (85th %ile) | 2026-07-25 | ✅ |
+| **Default** ⭐ | C++ | 11 (90th %ile) | 10884000 (85th %ile) | 2026-07-25 | ✅ |
 
 ---
 
