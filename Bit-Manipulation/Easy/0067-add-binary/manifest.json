@@ -1,0 +1,86 @@
+{
+  "slug": "add-binary",
+  "title": "Add Binary",
+  "number": 67,
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "String",
+    "Bit Manipulation",
+    "Simulation"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "bit-manipulation"
+  },
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "problemMetadata": {
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ],
+    "paidOnly": false,
+    "categoryTitle": "Algorithms",
+    "likes": 0,
+    "dislikes": 0,
+    "capturedAt": "2026-07-25T08:00:29.654Z"
+  },
+  "url": "https://leetcode.com/problems/add-binary",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "806e266b-c531-405e-b6fe-5673c32bd4ea",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "Bit-Manipulation/Easy/0067-add-binary/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T08:00:34.678Z",
+          "updatedAt": "2026-07-25T08:00:34.678Z",
+          "isDefault": true,
+          "runtime": "3 ms",
+          "runtimePercentile": 18.574000000000005,
+          "memory": "9.9 MB",
+          "memoryPercentile": 23.908000000000005,
+          "commitSha": "6a45ffc3f2dd93f5eb9b1b2b92c8671cc3f0db67",
+          "previousCommitSha": null,
+          "submissionId": "2080467213"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}
