@@ -1,0 +1,50 @@
+{
+  "slug": "sum-of-primes-between-number-and-its-reverse",
+  "title": "Sum of Primes Between Number and Its Reverse",
+  "number": 4297,
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Number Theory"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "math"
+  },
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Number Theory",
+      "slug": "number-theory"
+    }
+  ],
+  "url": "https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "68b9b6d3-6920-4320-b25b-93b6f81cf148",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "math/Medium/4297-sum-of-primes-between-number-and-its-reverse/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:32:33.496Z",
+          "updatedAt": "2026-07-25T07:32:33.496Z",
+          "isDefault": true,
+          "runtime": 7,
+          "runtimePercentile": 90,
+          "memory": 8436000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "1993798370"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

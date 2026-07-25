@@ -1,0 +1,55 @@
+{
+  "slug": "minimum-cost-to-move-between-indices",
+  "title": "Minimum Cost to Move Between Indices",
+  "number": 4291,
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Prefix Sum"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "url": "https://leetcode.com/problems/minimum-cost-to-move-between-indices/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "6d84b01d-9934-4825-b42d-e2fa90e99f33",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Medium/4291-minimum-cost-to-move-between-indices/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:32:33.119Z",
+          "updatedAt": "2026-07-25T07:32:33.119Z",
+          "isDefault": true,
+          "runtime": 15,
+          "runtimePercentile": 90,
+          "memory": 229480000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "1993857557"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

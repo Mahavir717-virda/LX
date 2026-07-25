@@ -1,0 +1,50 @@
+{
+  "slug": "concatenate-array-with-reverse",
+  "title": "Concatenate Array With Reverse",
+  "number": 4299,
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Simulation"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "url": "https://leetcode.com/problems/concatenate-array-with-reverse/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "e3586779-149f-4aeb-8b05-0a66b2bac947",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Easy/4299-concatenate-array-with-reverse/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:32:29.636Z",
+          "updatedAt": "2026-07-25T07:32:29.636Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 30444000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "1999330857"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

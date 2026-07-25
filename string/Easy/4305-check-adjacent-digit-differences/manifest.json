@@ -1,0 +1,45 @@
+{
+  "slug": "check-adjacent-digit-differences",
+  "title": "Check Adjacent Digit Differences",
+  "number": 4305,
+  "difficulty": "Easy",
+  "tags": [
+    "String"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "string"
+  },
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "url": "https://leetcode.com/problems/check-adjacent-digit-differences/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "7f2ff661-33bb-4e0d-a5dd-839089556692",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "string/Easy/4305-check-adjacent-digit-differences/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:32:28.781Z",
+          "updatedAt": "2026-07-25T07:32:28.781Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 8596000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2005019828"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "limit-occurrences-in-sorted-array",
+  "title": "Limit Occurrences in Sorted Array",
+  "number": 4312,
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    }
+  ],
+  "url": "https://leetcode.com/problems/limit-occurrences-in-sorted-array/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "79657bb5-8481-4c18-8668-58f4e4494228",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Easy/4312-limit-occurrences-in-sorted-array/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:32:25.930Z",
+          "updatedAt": "2026-07-25T07:32:25.930Z",
+          "isDefault": true,
+          "runtime": 2,
+          "runtimePercentile": 90,
+          "memory": 33700000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2016963051"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

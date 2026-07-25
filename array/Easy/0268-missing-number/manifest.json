@@ -1,0 +1,70 @@
+{
+  "slug": "missing-number",
+  "title": "Missing Number",
+  "number": 268,
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Binary Search",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "url": "https://leetcode.com/problems/missing-number/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "900bfae3-5d24-4ed9-9def-8cde99386144",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Easy/0268-missing-number/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:32:27.189Z",
+          "updatedAt": "2026-07-25T07:32:27.189Z",
+          "isDefault": true,
+          "runtime": 11,
+          "runtimePercentile": 90,
+          "memory": 27936000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2012511483"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

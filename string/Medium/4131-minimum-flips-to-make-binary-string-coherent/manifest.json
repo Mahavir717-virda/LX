@@ -1,0 +1,45 @@
+{
+  "slug": "minimum-flips-to-make-binary-string-coherent",
+  "title": "Minimum Flips to Make Binary String Coherent",
+  "number": 4131,
+  "difficulty": "Medium",
+  "tags": [
+    "String"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "string"
+  },
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "url": "https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "5d9e5873-4b4a-4c5a-8e80-2aeec202e632",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "string/Medium/4131-minimum-flips-to-make-binary-string-coherent/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:32:30.395Z",
+          "updatedAt": "2026-07-25T07:32:30.395Z",
+          "isDefault": true,
+          "runtime": 3,
+          "runtimePercentile": 90,
+          "memory": 19536000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "1998978349"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

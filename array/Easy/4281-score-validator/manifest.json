@@ -1,0 +1,55 @@
+{
+  "slug": "score-validator",
+  "title": "Score Validator",
+  "number": 4281,
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "String",
+    "Simulation"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Simulation",
+      "slug": "simulation"
+    }
+  ],
+  "url": "https://leetcode.com/problems/score-validator/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "264422e4-1469-4ada-b389-ef9d045feb9a",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Easy/4281-score-validator/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:32:30.761Z",
+          "updatedAt": "2026-07-25T07:32:30.761Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 53752000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "1998895504"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

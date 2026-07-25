@@ -1,0 +1,55 @@
+{
+  "slug": "rotate-array",
+  "title": "Rotate Array",
+  "number": 189,
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Two Pointers"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    }
+  ],
+  "url": "https://leetcode.com/problems/rotate-array/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "afcbace6-e1cf-402b-ba22-c1f06895e688",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Medium/0189-rotate-array/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:32:32.749Z",
+          "updatedAt": "2026-07-25T07:32:32.749Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 29420000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "1998656280"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

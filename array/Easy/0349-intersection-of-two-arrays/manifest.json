@@ -1,0 +1,65 @@
+{
+  "slug": "intersection-of-two-arrays",
+  "title": "Intersection of Two Arrays",
+  "number": 349,
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "url": "https://leetcode.com/problems/intersection-of-two-arrays/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "7590aeb0-f0b7-4101-a5f6-933a97b59258",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Easy/0349-intersection-of-two-arrays/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:32:27.812Z",
+          "updatedAt": "2026-07-25T07:32:27.812Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 14908000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2012413675"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

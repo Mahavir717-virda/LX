@@ -1,0 +1,60 @@
+{
+  "slug": "count-valid-word-occurrences",
+  "title": "Count Valid Word Occurrences",
+  "number": 4293,
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "url": "https://leetcode.com/problems/count-valid-word-occurrences/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "ca233f74-03a8-47c1-953a-14da5a5938db",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Medium/4293-count-valid-word-occurrences/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:32:29.163Z",
+          "updatedAt": "2026-07-25T07:32:29.163Z",
+          "isDefault": true,
+          "runtime": 212,
+          "runtimePercentile": 90,
+          "memory": 230992000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2001180112"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}
