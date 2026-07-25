@@ -24,23 +24,23 @@
   "url": "https://leetcode.com/problems/two-sum/",
   "solutionGroups": [
     {
-      "language": "python",
+      "language": "cpp",
       "solutions": [
         {
-          "id": "508fe3cd-f699-4e63-b9e6-9e35eda41278",
+          "id": "1afdb4a2-d55b-4e44-b89d-1864ca823db7",
           "label": "Default",
-          "language": "python",
-          "filePath": "array/Easy/0001-two-sum/solutions/python/solution.py",
-          "createdAt": "2026-07-25T07:27:57.042Z",
-          "updatedAt": "2026-07-25T07:27:57.042Z",
+          "language": "cpp",
+          "filePath": "array/Easy/0001-two-sum/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:29:49.028Z",
+          "updatedAt": "2026-07-25T07:29:49.028Z",
           "isDefault": true,
-          "runtime": 1794,
+          "runtime": 3,
           "runtimePercentile": 90,
-          "memory": 13440000,
+          "memory": 14984000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2079133932"
+          "submissionId": "2074793726"
         }
       ]
     }
