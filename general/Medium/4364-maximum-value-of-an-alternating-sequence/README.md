@@ -1,8 +1,8 @@
-# 🟡 Count Dominant Nodes in a Binary Tree
+# 🟡 Maximum Value of an Alternating Sequence
 
 **Difficulty:** Medium  
 **Tags:** _none_  
-**Link:** [LeetCode](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree/)  
+**Link:** [LeetCode](https://leetcode.com/problems/maximum-value-of-an-alternating-sequence/)  
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Variant | Language | Runtime | Memory | Date | Default |
 |---|---|---|---|---|---|
-| **Default** ⭐ | C++ | 64 (90th %ile) | 338220000 (85th %ile) | 2026-07-25 | ✅ |
+| **Default** ⭐ | C++ | N/A (90th %ile) | 9208000 (85th %ile) | 2026-07-25 | ✅ |
 
 ---
 

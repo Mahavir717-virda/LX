@@ -1,0 +1,55 @@
+{
+  "slug": "find-greatest-common-divisor-of-array",
+  "title": "Find Greatest Common Divisor of Array",
+  "number": 2106,
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math",
+    "Number Theory"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Number Theory",
+      "slug": "number-theory"
+    }
+  ],
+  "url": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "d33a0585-c293-496f-9c03-5b8b046cb008",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Easy/2106-find-greatest-common-divisor-of-array/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:30:09.769Z",
+          "updatedAt": "2026-07-25T07:30:09.769Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 16172000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2071682997"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

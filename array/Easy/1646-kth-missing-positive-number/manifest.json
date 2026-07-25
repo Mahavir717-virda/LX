@@ -1,11 +1,11 @@
 {
-  "slug": "two-sum",
-  "title": "Two Sum",
-  "number": 1,
+  "slug": "kth-missing-positive-number",
+  "title": "Kth Missing Positive Number",
+  "number": 1646,
   "difficulty": "Easy",
   "tags": [
     "Array",
-    "Hash Table"
+    "Binary Search"
   ],
   "folderTopic": {
     "strategy": "PRIMARY_TOPIC",
@@ -17,30 +17,30 @@
       "slug": "array"
     },
     {
-      "name": "Hash Table",
-      "slug": "hash-table"
+      "name": "Binary Search",
+      "slug": "binary-search"
     }
   ],
-  "url": "https://leetcode.com/problems/two-sum/",
+  "url": "https://leetcode.com/problems/kth-missing-positive-number/",
   "solutionGroups": [
     {
       "language": "cpp",
       "solutions": [
         {
-          "id": "52c63f8f-54f8-47d7-acd8-9d8f79ed14d2",
+          "id": "97806ecc-40d6-43bf-9f64-323823963259",
           "label": "Default",
           "language": "cpp",
-          "filePath": "array/Easy/0001-two-sum/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:30:00.657Z",
-          "updatedAt": "2026-07-25T07:30:00.657Z",
+          "filePath": "array/Easy/1646-kth-missing-positive-number/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:30:02.925Z",
+          "updatedAt": "2026-07-25T07:30:02.925Z",
           "isDefault": true,
-          "runtime": 4,
+          "runtime": "N/A",
           "runtimePercentile": 90,
-          "memory": 14924000,
+          "memory": 13180000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2074765596"
+          "submissionId": "2074620838"
         }
       ]
     }

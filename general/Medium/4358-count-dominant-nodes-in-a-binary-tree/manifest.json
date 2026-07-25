@@ -15,20 +15,20 @@
       "language": "cpp",
       "solutions": [
         {
-          "id": "9c1c4c53-7bd7-4ba5-9644-b24a15757ec1",
+          "id": "6e5ce990-1c29-4642-a142-0b929fcd7eb0",
           "label": "Default",
           "language": "cpp",
           "filePath": "general/Medium/4358-count-dominant-nodes-in-a-binary-tree/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:28:48.935Z",
-          "updatedAt": "2026-07-25T07:28:48.935Z",
+          "createdAt": "2026-07-25T07:30:06.467Z",
+          "updatedAt": "2026-07-25T07:30:06.467Z",
           "isDefault": true,
-          "runtime": 54,
+          "runtime": 64,
           "runtimePercentile": 90,
-          "memory": 338160000,
+          "memory": 338220000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2078649040"
+          "submissionId": "2072968268"
         }
       ]
     }

@@ -1,0 +1,38 @@
+{
+  "slug": "maximum-value-of-an-alternating-sequence",
+  "title": "Maximum Value of an Alternating Sequence",
+  "number": 4364,
+  "difficulty": "Medium",
+  "tags": [],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "general"
+  },
+  "topicTags": [],
+  "url": "https://leetcode.com/problems/maximum-value-of-an-alternating-sequence/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "43ec3298-ae73-4840-8503-9141eca6719b",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "general/Medium/4364-maximum-value-of-an-alternating-sequence/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:30:08.661Z",
+          "updatedAt": "2026-07-25T07:30:08.661Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 9208000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2072517490"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

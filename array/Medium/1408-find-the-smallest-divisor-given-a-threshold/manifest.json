@@ -1,0 +1,50 @@
+{
+  "slug": "find-the-smallest-divisor-given-a-threshold",
+  "title": "Find the Smallest Divisor Given a Threshold",
+  "number": 1408,
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    }
+  ],
+  "url": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "d05ef213-8c54-4608-9ab5-a5afdd79f809",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Medium/1408-find-the-smallest-divisor-given-a-threshold/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:30:11.058Z",
+          "updatedAt": "2026-07-25T07:30:11.058Z",
+          "isDefault": true,
+          "runtime": 11,
+          "runtimePercentile": 90,
+          "memory": 26208000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2070314424"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

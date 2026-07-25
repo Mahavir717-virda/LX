@@ -1,8 +1,8 @@
-# 🟢 Even Number of Knight Moves
+# 🟢 Rearrange String to Avoid Character Pair
 
 **Difficulty:** Easy  
 **Tags:** _none_  
-**Link:** [LeetCode](https://leetcode.com/problems/even-number-of-knight-moves/)  
+**Link:** [LeetCode](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/)  
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Variant | Language | Runtime | Memory | Date | Default |
 |---|---|---|---|---|---|
-| **Default** ⭐ | C++ | N/A (90th %ile) | 49772000 (85th %ile) | 2026-07-25 | ✅ |
+| **Default** ⭐ | C++ | N/A (90th %ile) | 9140000 (85th %ile) | 2026-07-25 | ✅ |
 
 ---
 

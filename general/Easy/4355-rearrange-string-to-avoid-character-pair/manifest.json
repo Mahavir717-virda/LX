@@ -1,7 +1,7 @@
 {
-  "slug": "even-number-of-knight-moves",
-  "title": "Even Number of Knight Moves",
-  "number": 4369,
+  "slug": "rearrange-string-to-avoid-character-pair",
+  "title": "Rearrange String to Avoid Character Pair",
+  "number": 4355,
   "difficulty": "Easy",
   "tags": [],
   "folderTopic": {
@@ -9,26 +9,26 @@
     "value": "general"
   },
   "topicTags": [],
-  "url": "https://leetcode.com/problems/even-number-of-knight-moves/",
+  "url": "https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/",
   "solutionGroups": [
     {
       "language": "cpp",
       "solutions": [
         {
-          "id": "4699f645-9b88-4735-af79-106180b1cec5",
+          "id": "b9d2a6d6-1c86-45df-99a3-f354170efb5e",
           "label": "Default",
           "language": "cpp",
-          "filePath": "general/Easy/4369-even-number-of-knight-moves/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:30:05.536Z",
-          "updatedAt": "2026-07-25T07:30:05.536Z",
+          "filePath": "general/Easy/4355-rearrange-string-to-avoid-character-pair/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:30:09.101Z",
+          "updatedAt": "2026-07-25T07:30:09.101Z",
           "isDefault": true,
           "runtime": "N/A",
           "runtimePercentile": 90,
-          "memory": 49772000,
+          "memory": 9140000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2072978281"
+          "submissionId": "2072384488"
         }
       ]
     }
