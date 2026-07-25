@@ -1,0 +1,38 @@
+{
+  "slug": "unique-middle-element",
+  "title": "Unique Middle Element",
+  "number": 4354,
+  "difficulty": "Easy",
+  "tags": [],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "general"
+  },
+  "topicTags": [],
+  "url": "https://leetcode.com/problems/unique-middle-element/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "a20d6d51-f77d-4a5d-81c1-8c032756ea26",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "general/Easy/4354-unique-middle-element/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:11.576Z",
+          "updatedAt": "2026-07-25T07:31:11.576Z",
+          "isDefault": true,
+          "runtime": 11,
+          "runtimePercentile": 90,
+          "memory": 33496000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2055798376"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

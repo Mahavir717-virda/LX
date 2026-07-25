@@ -1,12 +1,13 @@
 {
-  "slug": "jump-game",
-  "title": "Jump Game",
-  "number": 55,
-  "difficulty": "Medium",
+  "slug": "assign-cookies",
+  "title": "Assign Cookies",
+  "number": 455,
+  "difficulty": "Easy",
   "tags": [
     "Array",
-    "Dynamic Programming",
-    "Greedy"
+    "Two Pointers",
+    "Greedy",
+    "Sorting"
   ],
   "folderTopic": {
     "strategy": "PRIMARY_TOPIC",
@@ -18,34 +19,38 @@
       "slug": "array"
     },
     {
-      "name": "Dynamic Programming",
-      "slug": "dynamic-programming"
+      "name": "Two Pointers",
+      "slug": "two-pointers"
     },
     {
       "name": "Greedy",
       "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
     }
   ],
-  "url": "https://leetcode.com/problems/jump-game/",
+  "url": "https://leetcode.com/problems/assign-cookies/",
   "solutionGroups": [
     {
       "language": "cpp",
       "solutions": [
         {
-          "id": "5740d7bf-5a71-4a14-883d-1114690f63cc",
+          "id": "45ada61f-ccf7-41a4-9922-ee88eda6758b",
           "label": "Default",
           "language": "cpp",
-          "filePath": "array/Medium/0055-jump-game/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:31:06.277Z",
-          "updatedAt": "2026-07-25T07:31:06.277Z",
+          "filePath": "array/Easy/0455-assign-cookies/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:07.906Z",
+          "updatedAt": "2026-07-25T07:31:07.906Z",
           "isDefault": true,
-          "runtime": 4,
+          "runtime": 6,
           "runtimePercentile": 90,
-          "memory": 52308000,
+          "memory": 44916000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2058331484"
+          "submissionId": "2058029554"
         }
       ]
     }

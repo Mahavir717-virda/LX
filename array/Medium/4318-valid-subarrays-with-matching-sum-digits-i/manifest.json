@@ -1,0 +1,65 @@
+{
+  "slug": "valid-subarrays-with-matching-sum-digits-i",
+  "title": "Valid Subarrays With Matching Sum Digits I",
+  "number": 4318,
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window",
+    "Enumeration",
+    "Prefix Sum"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    },
+    {
+      "name": "Enumeration",
+      "slug": "enumeration"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "url": "https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "989cb332-0b96-40a2-a65a-6e2cd264ad4a",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Medium/4318-valid-subarrays-with-matching-sum-digits-i/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:15.389Z",
+          "updatedAt": "2026-07-25T07:31:15.389Z",
+          "isDefault": true,
+          "runtime": 850,
+          "runtimePercentile": 90,
+          "memory": 33040000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2048852101"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

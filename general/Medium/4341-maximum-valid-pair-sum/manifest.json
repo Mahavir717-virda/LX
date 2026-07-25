@@ -1,0 +1,38 @@
+{
+  "slug": "maximum-valid-pair-sum",
+  "title": "Maximum Valid Pair Sum",
+  "number": 4341,
+  "difficulty": "Medium",
+  "tags": [],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "general"
+  },
+  "topicTags": [],
+  "url": "https://leetcode.com/problems/maximum-valid-pair-sum/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "a634f1e5-86e4-487c-8190-336fe8c640f1",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "general/Medium/4341-maximum-valid-pair-sum/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:10.911Z",
+          "updatedAt": "2026-07-25T07:31:10.911Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 205632000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2055895438"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

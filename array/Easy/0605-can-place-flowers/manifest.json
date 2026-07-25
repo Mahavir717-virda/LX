@@ -1,11 +1,10 @@
 {
-  "slug": "jump-game",
-  "title": "Jump Game",
-  "number": 55,
-  "difficulty": "Medium",
+  "slug": "can-place-flowers",
+  "title": "Can Place Flowers",
+  "number": 605,
+  "difficulty": "Easy",
   "tags": [
     "Array",
-    "Dynamic Programming",
     "Greedy"
   ],
   "folderTopic": {
@@ -18,34 +17,30 @@
       "slug": "array"
     },
     {
-      "name": "Dynamic Programming",
-      "slug": "dynamic-programming"
-    },
-    {
       "name": "Greedy",
       "slug": "greedy"
     }
   ],
-  "url": "https://leetcode.com/problems/jump-game/",
+  "url": "https://leetcode.com/problems/can-place-flowers/",
   "solutionGroups": [
     {
       "language": "cpp",
       "solutions": [
         {
-          "id": "5740d7bf-5a71-4a14-883d-1114690f63cc",
+          "id": "6b7f08bf-9e5c-4034-b0bc-d4428f61b7ae",
           "label": "Default",
           "language": "cpp",
-          "filePath": "array/Medium/0055-jump-game/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:31:06.277Z",
-          "updatedAt": "2026-07-25T07:31:06.277Z",
+          "filePath": "array/Easy/0605-can-place-flowers/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:12.875Z",
+          "updatedAt": "2026-07-25T07:31:12.875Z",
           "isDefault": true,
-          "runtime": 4,
+          "runtime": 1,
           "runtimePercentile": 90,
-          "memory": 52308000,
+          "memory": 24032000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2058331484"
+          "submissionId": "2053710768"
         }
       ]
     }

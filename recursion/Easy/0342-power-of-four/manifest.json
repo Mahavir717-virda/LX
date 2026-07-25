@@ -1,0 +1,55 @@
+{
+  "slug": "power-of-four",
+  "title": "Power of Four",
+  "number": 342,
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Bit Manipulation",
+    "Recursion"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "recursion"
+  },
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Bit Manipulation",
+      "slug": "bit-manipulation"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "url": "https://leetcode.com/problems/power-of-four/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "8056e3bc-66ed-4177-85d5-0d826f1b6c75",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "recursion/Easy/0342-power-of-four/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:08.376Z",
+          "updatedAt": "2026-07-25T07:31:08.376Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 7984000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2056617397"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

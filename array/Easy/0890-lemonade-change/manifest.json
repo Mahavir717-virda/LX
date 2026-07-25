@@ -1,11 +1,10 @@
 {
-  "slug": "jump-game",
-  "title": "Jump Game",
-  "number": 55,
-  "difficulty": "Medium",
+  "slug": "lemonade-change",
+  "title": "Lemonade Change",
+  "number": 890,
+  "difficulty": "Easy",
   "tags": [
     "Array",
-    "Dynamic Programming",
     "Greedy"
   ],
   "folderTopic": {
@@ -18,34 +17,30 @@
       "slug": "array"
     },
     {
-      "name": "Dynamic Programming",
-      "slug": "dynamic-programming"
-    },
-    {
       "name": "Greedy",
       "slug": "greedy"
     }
   ],
-  "url": "https://leetcode.com/problems/jump-game/",
+  "url": "https://leetcode.com/problems/lemonade-change/",
   "solutionGroups": [
     {
       "language": "cpp",
       "solutions": [
         {
-          "id": "5740d7bf-5a71-4a14-883d-1114690f63cc",
+          "id": "289cc2a3-bfd3-4fec-b083-718dc2c626bb",
           "label": "Default",
           "language": "cpp",
-          "filePath": "array/Medium/0055-jump-game/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:31:06.277Z",
-          "updatedAt": "2026-07-25T07:31:06.277Z",
+          "filePath": "array/Easy/0890-lemonade-change/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:06.662Z",
+          "updatedAt": "2026-07-25T07:31:06.662Z",
           "isDefault": true,
-          "runtime": 4,
+          "runtime": "N/A",
           "runtimePercentile": 90,
-          "memory": 52308000,
+          "memory": 87256000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2058331484"
+          "submissionId": "2058068272"
         }
       ]
     }

@@ -1,8 +1,8 @@
-# 🟡 Jump Game
+# 🟡 Maximum Valid Pair Sum
 
 **Difficulty:** Medium  
-**Tags:** `Array` `Dynamic Programming` `Greedy`  
-**Link:** [LeetCode](https://leetcode.com/problems/jump-game/)  
+**Tags:** _none_  
+**Link:** [LeetCode](https://leetcode.com/problems/maximum-valid-pair-sum/)  
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Variant | Language | Runtime | Memory | Date | Default |
 |---|---|---|---|---|---|
-| **Default** ⭐ | C++ | 4 (90th %ile) | 52308000 (85th %ile) | 2026-07-25 | ✅ |
+| **Default** ⭐ | C++ | N/A (90th %ile) | 205632000 (85th %ile) | 2026-07-25 | ✅ |
 
 ---
 

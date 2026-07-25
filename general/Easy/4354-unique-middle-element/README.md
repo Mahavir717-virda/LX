@@ -1,8 +1,8 @@
-# 🟢 Length of Last Word
+# 🟢 Unique Middle Element
 
 **Difficulty:** Easy  
-**Tags:** `String`  
-**Link:** [LeetCode](https://leetcode.com/problems/length-of-last-word/)  
+**Tags:** _none_  
+**Link:** [LeetCode](https://leetcode.com/problems/unique-middle-element/)  
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Variant | Language | Runtime | Memory | Date | Default |
 |---|---|---|---|---|---|
-| **Default** ⭐ | C++ | N/A (90th %ile) | 8932000 (85th %ile) | 2026-07-25 | ✅ |
+| **Default** ⭐ | C++ | 11 (90th %ile) | 33496000 (85th %ile) | 2026-07-25 | ✅ |
 
 ---
 

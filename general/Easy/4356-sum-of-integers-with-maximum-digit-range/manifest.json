@@ -1,0 +1,38 @@
+{
+  "slug": "sum-of-integers-with-maximum-digit-range",
+  "title": "Sum of Integers with Maximum Digit Range",
+  "number": 4356,
+  "difficulty": "Easy",
+  "tags": [],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "general"
+  },
+  "topicTags": [],
+  "url": "https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "107d1160-6014-4345-a5ea-702ce8c0aa72",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "general/Easy/4356-sum-of-integers-with-maximum-digit-range/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:09.821Z",
+          "updatedAt": "2026-07-25T07:31:09.821Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 31312000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2056356586"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

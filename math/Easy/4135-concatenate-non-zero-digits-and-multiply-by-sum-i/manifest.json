@@ -1,0 +1,45 @@
+{
+  "slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+  "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+  "number": 4135,
+  "difficulty": "Easy",
+  "tags": [
+    "Math"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "math"
+  },
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    }
+  ],
+  "url": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "ddb9b9a3-3adb-4c8f-a29b-1e1bfc8126d1",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "math/Easy/4135-concatenate-non-zero-digits-and-multiply-by-sum-i/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:05.892Z",
+          "updatedAt": "2026-07-25T07:31:05.892Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 8976000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2059351790"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

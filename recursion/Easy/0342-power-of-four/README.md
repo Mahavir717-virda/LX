@@ -1,8 +1,8 @@
-# 🟢 Length of Last Word
+# 🟢 Power of Four
 
 **Difficulty:** Easy  
-**Tags:** `String`  
-**Link:** [LeetCode](https://leetcode.com/problems/length-of-last-word/)  
+**Tags:** `Math` `Bit Manipulation` `Recursion`  
+**Link:** [LeetCode](https://leetcode.com/problems/power-of-four/)  
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Variant | Language | Runtime | Memory | Date | Default |
 |---|---|---|---|---|---|
-| **Default** ⭐ | C++ | N/A (90th %ile) | 8932000 (85th %ile) | 2026-07-25 | ✅ |
+| **Default** ⭐ | C++ | N/A (90th %ile) | 7984000 (85th %ile) | 2026-07-25 | ✅ |
 
 ---
 

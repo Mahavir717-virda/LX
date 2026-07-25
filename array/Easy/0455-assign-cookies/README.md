@@ -1,8 +1,8 @@
-# 🟢 Length of Last Word
+# 🟢 Assign Cookies
 
 **Difficulty:** Easy  
-**Tags:** `String`  
-**Link:** [LeetCode](https://leetcode.com/problems/length-of-last-word/)  
+**Tags:** `Array` `Two Pointers` `Greedy` `Sorting`  
+**Link:** [LeetCode](https://leetcode.com/problems/assign-cookies/)  
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Variant | Language | Runtime | Memory | Date | Default |
 |---|---|---|---|---|---|
-| **Default** ⭐ | C++ | N/A (90th %ile) | 8932000 (85th %ile) | 2026-07-25 | ✅ |
+| **Default** ⭐ | C++ | 6 (90th %ile) | 44916000 (85th %ile) | 2026-07-25 | ✅ |
 
 ---
 

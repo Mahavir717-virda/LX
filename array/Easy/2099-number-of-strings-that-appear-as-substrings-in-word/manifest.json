@@ -1,0 +1,50 @@
+{
+  "slug": "number-of-strings-that-appear-as-substrings-in-word",
+  "title": "Number of Strings That Appear as Substrings in Word",
+  "number": 2099,
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "String"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ],
+  "url": "https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "01b23a1d-e55c-41b8-a2ec-20fb3c0f3a24",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Easy/2099-number-of-strings-that-appear-as-substrings-in-word/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:14.149Z",
+          "updatedAt": "2026-07-25T07:31:14.149Z",
+          "isDefault": true,
+          "runtime": "N/A",
+          "runtimePercentile": 90,
+          "memory": 11616000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2050396530"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

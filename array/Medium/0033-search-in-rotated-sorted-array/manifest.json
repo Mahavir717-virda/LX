@@ -1,12 +1,11 @@
 {
-  "slug": "jump-game",
-  "title": "Jump Game",
-  "number": 55,
+  "slug": "search-in-rotated-sorted-array",
+  "title": "Search in Rotated Sorted Array",
+  "number": 33,
   "difficulty": "Medium",
   "tags": [
     "Array",
-    "Dynamic Programming",
-    "Greedy"
+    "Binary Search"
   ],
   "folderTopic": {
     "strategy": "PRIMARY_TOPIC",
@@ -18,34 +17,30 @@
       "slug": "array"
     },
     {
-      "name": "Dynamic Programming",
-      "slug": "dynamic-programming"
-    },
-    {
-      "name": "Greedy",
-      "slug": "greedy"
+      "name": "Binary Search",
+      "slug": "binary-search"
     }
   ],
-  "url": "https://leetcode.com/problems/jump-game/",
+  "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
   "solutionGroups": [
     {
       "language": "cpp",
       "solutions": [
         {
-          "id": "5740d7bf-5a71-4a14-883d-1114690f63cc",
+          "id": "d7f85c48-5d11-4109-9956-0264f3ca05b2",
           "label": "Default",
           "language": "cpp",
-          "filePath": "array/Medium/0055-jump-game/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:31:06.277Z",
-          "updatedAt": "2026-07-25T07:31:06.277Z",
+          "filePath": "array/Medium/0033-search-in-rotated-sorted-array/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:12.015Z",
+          "updatedAt": "2026-07-25T07:31:12.015Z",
           "isDefault": true,
-          "runtime": 4,
+          "runtime": "N/A",
           "runtimePercentile": 90,
-          "memory": 52308000,
+          "memory": 15340000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2058331484"
+          "submissionId": "2055266923"
         }
       ]
     }

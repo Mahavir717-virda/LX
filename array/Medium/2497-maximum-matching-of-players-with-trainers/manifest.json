@@ -1,0 +1,60 @@
+{
+  "slug": "maximum-matching-of-players-with-trainers",
+  "title": "Maximum Matching of Players With Trainers",
+  "number": 2497,
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Two Pointers",
+      "slug": "two-pointers"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    }
+  ],
+  "url": "https://leetcode.com/problems/maximum-matching-of-players-with-trainers/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "9289b595-adb8-4528-9ef4-7900a47781fa",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "array/Medium/2497-maximum-matching-of-players-with-trainers/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:07.126Z",
+          "updatedAt": "2026-07-25T07:31:07.126Z",
+          "isDefault": true,
+          "runtime": 34,
+          "runtimePercentile": 90,
+          "memory": 80152000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2058037561"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "rising-temperature",
+  "title": "Rising Temperature",
+  "number": 197,
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "database"
+  },
+  "topicTags": [
+    {
+      "name": "Database",
+      "slug": "database"
+    }
+  ],
+  "url": "https://leetcode.com/problems/rising-temperature/",
+  "solutionGroups": [
+    {
+      "language": "mysql",
+      "solutions": [
+        {
+          "id": "f3336778-9b50-44ae-814b-0bd83ae6af6e",
+          "label": "Default",
+          "language": "mysql",
+          "filePath": "database/Easy/0197-rising-temperature/solutions/mysql/solution.sql",
+          "createdAt": "2026-07-25T07:31:12.491Z",
+          "updatedAt": "2026-07-25T07:31:12.491Z",
+          "isDefault": true,
+          "runtime": 729,
+          "runtimePercentile": 90,
+          "memory": "N/A",
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2054971818"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

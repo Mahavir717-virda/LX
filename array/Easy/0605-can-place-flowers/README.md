@@ -1,8 +1,8 @@
-# 🟢 Length of Last Word
+# 🟢 Can Place Flowers
 
 **Difficulty:** Easy  
-**Tags:** `String`  
-**Link:** [LeetCode](https://leetcode.com/problems/length-of-last-word/)  
+**Tags:** `Array` `Greedy`  
+**Link:** [LeetCode](https://leetcode.com/problems/can-place-flowers/)  
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Variant | Language | Runtime | Memory | Date | Default |
 |---|---|---|---|---|---|
-| **Default** ⭐ | C++ | N/A (90th %ile) | 8932000 (85th %ile) | 2026-07-25 | ✅ |
+| **Default** ⭐ | C++ | 1 (90th %ile) | 24032000 (85th %ile) | 2026-07-25 | ✅ |
 
 ---
 

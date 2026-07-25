@@ -22,20 +22,20 @@
       "language": "cpp",
       "solutions": [
         {
-          "id": "0f5a7a6e-2f60-4e73-ab1e-7ea613808b84",
+          "id": "a7b6afb6-1dcf-4f1e-b955-24ed29bff110",
           "label": "Default",
           "language": "cpp",
           "filePath": "string/Easy/0058-length-of-last-word/solutions/cpp/solution.cpp",
-          "createdAt": "2026-07-25T07:27:49.999Z",
-          "updatedAt": "2026-07-25T07:27:49.999Z",
+          "createdAt": "2026-07-25T07:31:13.246Z",
+          "updatedAt": "2026-07-25T07:31:13.246Z",
           "isDefault": true,
           "runtime": "N/A",
           "runtimePercentile": 90,
-          "memory": 8940000,
+          "memory": 8932000,
           "memoryPercentile": 85,
           "commitSha": "historical_import",
           "previousCommitSha": null,
-          "submissionId": "2079360800"
+          "submissionId": "2052558161"
         }
       ]
     }

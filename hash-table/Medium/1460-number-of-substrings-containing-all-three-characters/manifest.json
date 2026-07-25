@@ -1,0 +1,55 @@
+{
+  "slug": "number-of-substrings-containing-all-three-characters",
+  "title": "Number of Substrings Containing All Three Characters",
+  "number": 1460,
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "hash-table"
+  },
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Sliding Window",
+      "slug": "sliding-window"
+    }
+  ],
+  "url": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "9e0fe671-d006-4f99-9b15-671321ace282",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "hash-table/Medium/1460-number-of-substrings-containing-all-three-characters/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:13.764Z",
+          "updatedAt": "2026-07-25T07:31:13.764Z",
+          "isDefault": true,
+          "runtime": 3,
+          "runtimePercentile": 90,
+          "memory": 10972000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2051466998"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

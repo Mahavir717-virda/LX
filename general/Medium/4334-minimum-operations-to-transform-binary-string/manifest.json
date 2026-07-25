@@ -1,0 +1,38 @@
+{
+  "slug": "minimum-operations-to-transform-binary-string",
+  "title": "Minimum Operations to Transform Binary String",
+  "number": 4334,
+  "difficulty": "Medium",
+  "tags": [],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "general"
+  },
+  "topicTags": [],
+  "url": "https://leetcode.com/problems/minimum-operations-to-transform-binary-string/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "8542fcd9-0aae-442d-9465-c3df864463aa",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "general/Medium/4334-minimum-operations-to-transform-binary-string/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:10.318Z",
+          "updatedAt": "2026-07-25T07:31:10.318Z",
+          "isDefault": true,
+          "runtime": 7,
+          "runtimePercentile": 90,
+          "memory": 30344000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2055957084"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

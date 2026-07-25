@@ -1,0 +1,50 @@
+{
+  "slug": "power-of-three",
+  "title": "Power of Three",
+  "number": 326,
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Recursion"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "recursion"
+  },
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion"
+    }
+  ],
+  "url": "https://leetcode.com/problems/power-of-three/",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "1825c120-7fa3-4177-b9a7-d84574a3d157",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "recursion/Easy/0326-power-of-three/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-25T07:31:08.900Z",
+          "updatedAt": "2026-07-25T07:31:08.900Z",
+          "isDefault": true,
+          "runtime": 3,
+          "runtimePercentile": 90,
+          "memory": 9036000,
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2056616172"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}

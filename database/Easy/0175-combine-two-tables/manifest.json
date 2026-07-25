@@ -1,0 +1,45 @@
+{
+  "slug": "combine-two-tables",
+  "title": "Combine Two Tables",
+  "number": 175,
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "database"
+  },
+  "topicTags": [
+    {
+      "name": "Database",
+      "slug": "database"
+    }
+  ],
+  "url": "https://leetcode.com/problems/combine-two-tables/",
+  "solutionGroups": [
+    {
+      "language": "mysql",
+      "solutions": [
+        {
+          "id": "dbda0f7a-cd80-4c5c-a330-cdf86216cd39",
+          "label": "Default",
+          "language": "mysql",
+          "filePath": "database/Easy/0175-combine-two-tables/solutions/mysql/solution.sql",
+          "createdAt": "2026-07-25T07:31:14.564Z",
+          "updatedAt": "2026-07-25T07:31:14.564Z",
+          "isDefault": true,
+          "runtime": 403,
+          "runtimePercentile": 90,
+          "memory": "N/A",
+          "memoryPercentile": 85,
+          "commitSha": "historical_import",
+          "previousCommitSha": null,
+          "submissionId": "2048983676"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}
