@@ -1,0 +1,77 @@
+{
+  "slug": "maximum-product-of-two-elements-in-an-array",
+  "title": "Maximum Product of Two Elements in an Array",
+  "number": 1464,
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Sorting",
+      "slug": "sorting"
+    },
+    {
+      "name": "Heap (Priority Queue)",
+      "slug": "heap-priority-queue"
+    }
+  ],
+  "problemMetadata": {
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ],
+    "paidOnly": false,
+    "categoryTitle": "Algorithms",
+    "likes": 0,
+    "dislikes": 0,
+    "capturedAt": "2026-07-28T16:46:18.635Z"
+  },
+  "url": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "9ba93b54-9dd3-44d4-8f80-e6d4ef6f99ff",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "Contest/Weekly contest 191/1464-maximum-product-of-two-elements-in-an-array/solutions/cpp/solution.cpp",
+          "createdAt": "2026-07-28T16:46:19.863Z",
+          "updatedAt": "2026-07-28T16:46:19.863Z",
+          "isDefault": true,
+          "runtime": "0 ms",
+          "runtimePercentile": 100,
+          "memory": "13.4 MB",
+          "memoryPercentile": 85.4758,
+          "commitSha": "61f668280a2b989f89f73c2a2818af19f1db5154",
+          "previousCommitSha": null,
+          "submissionId": "2083333982"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}
