@@ -1,0 +1,68 @@
+{
+  "slug": "largest-integer-with-given-digit-sum",
+  "title": "Largest Integer With Given Digit Sum",
+  "number": 4000,
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Greedy"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "greedy"
+  },
+  "topicTags": [
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Greedy",
+      "slug": "greedy"
+    }
+  ],
+  "problemMetadata": {
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "paidOnly": false,
+    "categoryTitle": "Algorithms",
+    "likes": 0,
+    "dislikes": 0,
+    "capturedAt": "2026-08-20T10:47:34.090Z"
+  },
+  "url": "https://leetcode.com/contest/weekly-contest-512/problems/largest-integer-with-given-digit-sum",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "bd58a49f-ac37-4467-8b3b-7a262dd632dc",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "Contest/Weekly Contest 512/4000-largest-integer-with-given-digit-sum/solutions/cpp/solution.cpp",
+          "createdAt": "2026-08-20T10:47:35.684Z",
+          "updatedAt": "2026-08-20T10:47:35.684Z",
+          "isDefault": true,
+          "runtime": 0,
+          "runtimePercentile": 0,
+          "memory": 8268000,
+          "memoryPercentile": 0,
+          "commitSha": "130461d60f6f1887bf67010bed2cbd338303861f",
+          "previousCommitSha": null,
+          "submissionId": "2081422143"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}
