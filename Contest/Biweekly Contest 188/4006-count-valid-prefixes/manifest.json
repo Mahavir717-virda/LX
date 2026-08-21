@@ -1,0 +1,68 @@
+{
+  "slug": "count-valid-prefixes",
+  "title": "Count Valid Prefixes",
+  "number": 4006,
+  "difficulty": "Easy",
+  "tags": [
+    "String",
+    "Counting"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "string"
+  },
+  "topicTags": [
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Counting",
+      "slug": "counting"
+    }
+  ],
+  "problemMetadata": {
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "paidOnly": false,
+    "categoryTitle": "Algorithms",
+    "likes": 0,
+    "dislikes": 0,
+    "capturedAt": "2026-08-21T14:22:41.316Z"
+  },
+  "url": "https://leetcode.com/contest/biweekly-contest-188/problems/count-valid-prefixes",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "0e2ccff3-e322-4547-b894-815a910b3904",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "Contest/Biweekly Contest 188/4006-count-valid-prefixes/solutions/cpp/solution.cpp",
+          "createdAt": "2026-08-21T14:22:43.227Z",
+          "updatedAt": "2026-08-21T14:22:43.227Z",
+          "isDefault": true,
+          "runtime": 3,
+          "runtimePercentile": 0,
+          "memory": 9576000,
+          "memoryPercentile": 0,
+          "commitSha": "6c464bdf3d17c5fa89c0309726a361f12521690d",
+          "previousCommitSha": null,
+          "submissionId": "2090159675"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}
