@@ -1,0 +1,86 @@
+{
+  "slug": "maximize-pair-strength-using-gcd",
+  "title": "Maximize Pair Strength Using GCD",
+  "number": 4010,
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math",
+    "Enumeration",
+    "Number Theory"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "Enumeration",
+      "slug": "enumeration"
+    },
+    {
+      "name": "Number Theory",
+      "slug": "number-theory"
+    }
+  ],
+  "problemMetadata": {
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "paidOnly": false,
+    "categoryTitle": "Algorithms",
+    "likes": 0,
+    "dislikes": 0,
+    "capturedAt": "2026-08-21T14:24:06.172Z"
+  },
+  "url": "https://leetcode.com/contest/weekly-contest-513/problems/maximize-pair-strength-using-gcd",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "0a36aa3b-b6b8-4b2f-a774-616758cb24f3",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "Contest/Weekly Contest 513/4010-maximize-pair-strength-using-gcd/solutions/cpp/solution.cpp",
+          "createdAt": "2026-08-21T14:24:07.676Z",
+          "updatedAt": "2026-08-21T14:24:07.676Z",
+          "isDefault": true,
+          "runtime": "661 ms",
+          "runtimePercentile": 100,
+          "memory": "37 MB",
+          "memoryPercentile": 100,
+          "commitSha": "a47933bbd9e84591d87269a6acde69b8c816f23f",
+          "previousCommitSha": null,
+          "submissionId": "2090671275"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}
