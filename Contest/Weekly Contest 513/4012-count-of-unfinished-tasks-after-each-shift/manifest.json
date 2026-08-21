@@ -1,0 +1,77 @@
+{
+  "slug": "count-of-unfinished-tasks-after-each-shift",
+  "title": "Count of Unfinished Tasks After Each Shift",
+  "number": 4012,
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Prefix Sum"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Binary Search",
+      "slug": "binary-search"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "problemMetadata": {
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "paidOnly": false,
+    "categoryTitle": "Algorithms",
+    "likes": 0,
+    "dislikes": 0,
+    "capturedAt": "2026-08-21T14:56:31.352Z"
+  },
+  "url": "https://leetcode.com/contest/weekly-contest-513/problems/count-of-unfinished-tasks-after-each-shift",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "e0ca5d1b-4213-4d7c-9a98-3362a7d969ca",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "Contest/Weekly Contest 513/4012-count-of-unfinished-tasks-after-each-shift/solutions/cpp/solution.cpp",
+          "createdAt": "2026-08-21T14:56:32.890Z",
+          "updatedAt": "2026-08-21T14:56:32.890Z",
+          "isDefault": true,
+          "runtime": "15 ms",
+          "runtimePercentile": 46.15389999999998,
+          "memory": "139.8 MB",
+          "memoryPercentile": 15.384699999999977,
+          "commitSha": "33bde0070533839b0493fedf38887936f6f53435",
+          "previousCommitSha": null,
+          "submissionId": "2090801556"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}
