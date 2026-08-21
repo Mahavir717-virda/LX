@@ -1,0 +1,104 @@
+{
+  "slug": "count-subarrays-with-even-odd-ratio-i",
+  "title": "Count Subarrays With Even Odd Ratio I",
+  "number": 4011,
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Divide and Conquer",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Merge Sort",
+    "Prefix Sum"
+  ],
+  "folderTopic": {
+    "strategy": "PRIMARY_TOPIC",
+    "value": "array"
+  },
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "Divide and Conquer",
+      "slug": "divide-and-conquer"
+    },
+    {
+      "name": "Binary Indexed Tree",
+      "slug": "binary-indexed-tree"
+    },
+    {
+      "name": "Segment Tree",
+      "slug": "segment-tree"
+    },
+    {
+      "name": "Merge Sort",
+      "slug": "merge-sort"
+    },
+    {
+      "name": "Prefix Sum",
+      "slug": "prefix-sum"
+    }
+  ],
+  "problemMetadata": {
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "paidOnly": false,
+    "categoryTitle": "Algorithms",
+    "likes": 0,
+    "dislikes": 0,
+    "capturedAt": "2026-08-21T14:29:14.364Z"
+  },
+  "url": "https://leetcode.com/contest/weekly-contest-513/problems/count-subarrays-with-even-odd-ratio-i",
+  "solutionGroups": [
+    {
+      "language": "cpp",
+      "solutions": [
+        {
+          "id": "40f82db1-3a38-4925-a0fa-6c95e7fc0b4e",
+          "label": "Default",
+          "language": "cpp",
+          "filePath": "Contest/Weekly Contest 513/4011-count-subarrays-with-even-odd-ratio-i/solutions/cpp/solution.cpp",
+          "createdAt": "2026-08-21T14:29:15.626Z",
+          "updatedAt": "2026-08-21T14:29:15.626Z",
+          "isDefault": true,
+          "runtime": "26 ms",
+          "runtimePercentile": 100,
+          "memory": "29.8 MB",
+          "memoryPercentile": 100,
+          "commitSha": "9562388d91019454eb9298628283e113bd0d9dd5",
+          "previousCommitSha": null,
+          "submissionId": "2090716283"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 2,
+  "organizationStrategyVersion": 1
+}
